@@ -1,0 +1,8 @@
+.venv
+venv/
+
+.vscode
+.idea
+
+*.docx
+*.rar
